@@ -5,4 +5,4 @@ def reverse_each_word(string)
   
   
 end
-puts new_array
+puts new_array("hello there, and how are you?")
